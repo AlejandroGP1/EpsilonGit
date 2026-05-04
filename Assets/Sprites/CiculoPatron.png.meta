@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: b51370a63848bd2449122f62daba9a29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7775981878442353823
+    second: CiculoPatron_0
+  - first:
+      213: -3527647624131595624
+    second: CiculoPatron_1
+  - first:
+      213: -3845823206097304434
+    second: CiculoPatron_2
+  - first:
+      213: -2827159097956932994
+    second: CiculoPatron_3
+  - first:
+      213: 1345119508758083616
+    second: CiculoPatron_4
+  - first:
+      213: 2996176318909641183
+    second: CiculoPatron_5
+  - first:
+      213: 4918868946524635153
+    second: CiculoPatron_6
+  - first:
+      213: 8946054097304604528
+    second: CiculoPatron_7
+  - first:
+      213: -5415082759420821645
+    second: CiculoPatron_8
+  - first:
+      213: -6457749937988425370
+    second: CiculoPatron_9
+  - first:
+      213: -7855603372160100256
+    second: CiculoPatron_10
+  - first:
+      213: -6803109057426104868
+    second: CiculoPatron_11
+  - first:
+      213: 5705785240455678207
+    second: CiculoPatron_12
+  - first:
+      213: 3383708164300245508
+    second: CiculoPatron_13
+  - first:
+      213: -4553539116444660922
+    second: CiculoPatron_14
+  - first:
+      213: -2955395111269272415
+    second: CiculoPatron_15
+  - first:
+      213: -6625557988963133755
+    second: CiculoPatron_16
+  - first:
+      213: 3157847009336917014
+    second: CiculoPatron_17
+  - first:
+      213: 6747157675129486002
+    second: CiculoPatron_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CiculoPatron_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 433
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b91933ea9261490800000000000000
+      internalID: -7775981878442353823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 463
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892b2e61d274b0fc0800000000000000
+      internalID: -3527647624131595624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 463
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84cd9b8b24e0aac0800000000000000
+      internalID: -3845823206097304434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 433
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7263c287c9e3c8d0800000000000000
+      internalID: -2827159097956932994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 382
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02839f30113daa210800000000000000
+      internalID: 1345119508758083616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 382
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1fb05dc7e849920800000000000000
+      internalID: 2996176318909641183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 316
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1100d4ede35534440800000000000000
+      internalID: 4918868946524635153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 315
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fc443adc4c62c70800000000000000
+      internalID: 8946054097304604528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f316fabe2c9d4b0800000000000000
+      internalID: -5415082759420821645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 241
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66926e165a67166a0800000000000000
+      internalID: -6457749937988425370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06859029a5a4bf290800000000000000
+      internalID: -7855603372160100256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 162
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdddfdf4b508691a0800000000000000
+      internalID: -6803109057426104868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 92
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8070612750f2f40800000000000000
+      internalID: 5705785240455678207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 92
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a84b4d5a855fe20800000000000000
+      internalID: 3383708164300245508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 38
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b487d9c449ec0c0800000000000000
+      internalID: -4553539116444660922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 38
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a47eddfdc35cf6d0800000000000000
+      internalID: -2955395111269272415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 6
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6d91ddc1a4d04a0800000000000000
+      internalID: -6625557988963133755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c7e8ebf1de2db20800000000000000
+      internalID: 3157847009336917014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CiculoPatron_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bab4a55828b2ad50800000000000000
+      internalID: 6747157675129486002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CiculoPatron_0: -7775981878442353823
+      CiculoPatron_1: -3527647624131595624
+      CiculoPatron_10: -7855603372160100256
+      CiculoPatron_11: -6803109057426104868
+      CiculoPatron_12: 5705785240455678207
+      CiculoPatron_13: 3383708164300245508
+      CiculoPatron_14: -4553539116444660922
+      CiculoPatron_15: -2955395111269272415
+      CiculoPatron_16: -6625557988963133755
+      CiculoPatron_17: 3157847009336917014
+      CiculoPatron_18: 6747157675129486002
+      CiculoPatron_2: -3845823206097304434
+      CiculoPatron_3: -2827159097956932994
+      CiculoPatron_4: 1345119508758083616
+      CiculoPatron_5: 2996176318909641183
+      CiculoPatron_6: 4918868946524635153
+      CiculoPatron_7: 8946054097304604528
+      CiculoPatron_8: -5415082759420821645
+      CiculoPatron_9: -6457749937988425370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
