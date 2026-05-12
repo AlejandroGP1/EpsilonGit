@@ -35,6 +35,8 @@ public class AppYoutube : MonoBehaviour, IAppControlable
 
     [Header("Debug")]
     public string objetoMasCercano;
+    [Header("Opciones")]
+    public bool ignorarObjetoModoNavegacion = false;
 
     private Coroutine temporizadorEntrada;
 
@@ -82,14 +84,21 @@ public class AppYoutube : MonoBehaviour, IAppControlable
         }
     }
 
-    private void CalcularObjetoCercano() {
-        float distNav = Vector3.Distance(transformFlecha.position, objModoNavegacion.position);
+    private void CalcularObjetoCercano()
+    {
+        float distNav = ignorarObjetoModoNavegacion
+            ? Mathf.Infinity
+            : Vector3.Distance(transformFlecha.position, objModoNavegacion.position);
+
         float distMic = Vector3.Distance(transformFlecha.position, objMicrofono.position);
         float distAdd = Vector3.Distance(transformFlecha.position, objAddPestaña.position);
 
-        if (distNav < distMic && distNav < distAdd) objetoMasCercano = "Navegacion";
-        else if (distMic < distNav && distMic < distAdd) objetoMasCercano = "Microfono";
-        else objetoMasCercano = "Pestaña";
+        if (distNav < distMic && distNav < distAdd)
+            objetoMasCercano = "Navegacion";
+        else if (distMic < distNav && distMic < distAdd)
+            objetoMasCercano = "Microfono";
+        else
+            objetoMasCercano = "Pestaña";
     }
 
     public void EjecutarAccion(string gesto) {
